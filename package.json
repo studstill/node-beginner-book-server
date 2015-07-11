@@ -1,0 +1,23 @@
+{
+  "name": "node-beginner-book-example-server",
+  "version": "1.0.0",
+  "description": "Final code for the example server as laid out in The Node Beginner Book: A comprehensive Node.js tutorial, by Manuel Kiessling",
+  "author": "Manuel Kiessling <https://leanpub.com/u/manuelkiessling>",
+  "contributors": [{
+    "name": "Jason Studstill"
+    }],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "formidable": "^1.0.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "license": "ISC"
+}
